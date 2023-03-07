@@ -12,6 +12,7 @@
 - ### JavaScript (Fundamentals, Functional Programming, ES6+, DOM, OOP)
 - ### Git
 - ### Webpack (Basic)
+
 # **Code example**
 ```
 function sumOfMinimums(arr) {
@@ -24,9 +25,11 @@ function sumOfMinimums(arr) {
 ```
 # **Experience**
 - ### https://nikojingithub.github.io/russian-travel/
+
 # **Education**
 - ### Stepik "JavaScript for beginners" (100% completed)
 - ### Yandex practicum "Web-developer" (65% - not completed)
 - ### Udemy "JavaScript + React" (in progress)
+
 # **Languages**
 ### English - level A2 
