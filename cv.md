@@ -1,5 +1,4 @@
 # [rsschool-cv](https://nikojingithub.github.io/rsschool-cv/)
-
 # **SecondName FirstName**
 # **Contacts**
 #### Email: xxxxxxxxxxxxxxxxxxx@xxxxxx.com
@@ -23,8 +22,7 @@ function sumOfMinimums(arr) {
   return result;  
 }
 ```
-**Experience**
-==============
+# **Experience**
 - https://nikojingithub.github.io/russian-travel/
 # **Education**
 - Stepik "JavaScript for beginners" (100% completed)
