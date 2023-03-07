@@ -13,7 +13,6 @@
 - ### Git
 - ### Webpack (Basic)
 # **Code example**
-
 ```
 function sumOfMinimums(arr) {
   let result = 0;
