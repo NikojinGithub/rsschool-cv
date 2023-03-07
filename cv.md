@@ -24,7 +24,6 @@ function sumOfMinimums(arr) {
 ```
 # **Experience**
 * ### https://nikojingithub.github.io/russian-travel/
-
 # **Education**
 * ### Stepik "JavaScript for beginners" (100% completed)
 * ### Yandex practicum "Web-developer" (65% - not completed)
