@@ -12,7 +12,8 @@
 * ### JavaScript (Fundamentals, Functional Programming, ES6+, DOM, OOP)
 * ### Git
 * ### Webpack (Basic)
-# **Code example**
+**Code example**
+=================
 ```
 function sumOfMinimums(arr) {
   let result = 0;
