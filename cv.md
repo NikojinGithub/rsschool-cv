@@ -25,7 +25,7 @@ function sumOfMinimums(arr) {
 }
 ```
 # **Experience**
-* https://nikojingithub.github.io/russian-travel/
+* [https://nikojingithub.github.io/russian-travel/](https://nikojingithub.github.io/russian-travel/)
 
 # **Education**
 * Stepik "JavaScript for beginners" (100% completed)
@@ -33,4 +33,5 @@ function sumOfMinimums(arr) {
 * Udemy "JavaScript + React" (in progress)
 
 # **Languages**
+* Russian - native speaker
 * English - level A2 
