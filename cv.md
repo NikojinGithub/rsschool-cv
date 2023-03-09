@@ -2,7 +2,7 @@
 # **SecondName FirstName**
 # **Contacts**
 * Email: xxxxxxxxxxxxxxxxxxx@xxxxxx.com
-* Phone number: +000 000 00 00 00 
+* Phone number: +000 000 00 00 00
 * Discord: xxxxxxxxxxxxxxxxxxxxxxx
 
 # **Info about me**
@@ -21,7 +21,7 @@ function sumOfMinimums(arr) {
   for(let i = 0; i < arr.length; i++){
     result += Math.min(...arr[i]);
   }
-  return result;  
+  return result;
 }
 ```
 # **Experience**
@@ -34,4 +34,4 @@ function sumOfMinimums(arr) {
 
 # **Languages**
 * Russian - native speaker
-* English - level A2 
+* English - level A2
