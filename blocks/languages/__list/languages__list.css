@@ -1,0 +1,6 @@
+.languages__list{
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
