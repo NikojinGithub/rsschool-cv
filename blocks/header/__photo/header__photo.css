@@ -1,0 +1,6 @@
+.header__photo{
+  width: 25%;
+  height: 100%;
+  border: 1px dotted blue;
+  margin-left: 20px;
+}

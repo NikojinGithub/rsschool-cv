@@ -1,0 +1,6 @@
+.main__right{
+  width: 70%;
+  min-height: 500px;
+  border: 1px dotted black;
+  margin-right: 20px;
+}

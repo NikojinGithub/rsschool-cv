@@ -1,0 +1,6 @@
+.main__left{
+  width: 30%;
+  min-height: 500px;
+  border: 1px dotted black;
+  margin-left: 20px;
+}
