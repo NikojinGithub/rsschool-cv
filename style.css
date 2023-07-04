@@ -12,6 +12,7 @@
 @import url(/blocks/skills/skills.css);
 @import url(/blocks/skills/__title/skills__title.css);
 @import url(/blocks/skills/__list/skills__list.css);
+@import url(/blocks/skills/__icons/skills__icons.css);
 @import url(/blocks/education/education.css);
 @import url(/blocks/education/__title/education__title.css);
 @import url(/blocks/education/__list/education__list.css);
@@ -19,6 +20,18 @@
 @import url(/blocks/languages/__title/languages__title.css);
 @import url(/blocks/languages/__list/languages__list.css);
 
+@import url(/blocks/about/about.css);
+@import url(/blocks/about/__title/about__title.css);
+
+@import url(/blocks/example/example.css);
+@import url(/blocks/example/__title/example__title.css);
+
+
+@import url(/blocks/project/project.css);
+@import url(/blocks/project/__title/project__title.css);
+@import url(/blocks/project/__img/project__img.css);
+@import url(/blocks/project/__link/project__link.css);
+@import url(/blocks/project/__works/project__works.css);
 
 @import url(/blocks/footer/footer.css);
 
