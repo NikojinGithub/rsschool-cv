@@ -1,0 +1,10 @@
+.header__photo{
+  width: 20%;
+  height: 85%;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin-left: 60px;
+  text-align: center;
+  margin-bottom: auto;
+  margin-top: auto;
+}

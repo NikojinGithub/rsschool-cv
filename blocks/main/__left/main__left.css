@@ -1,0 +1,10 @@
+.main__left{
+  width: 30%;
+  min-height: 500px;
+  background-image: url('../../../images/1674784738_bogatyr-club-p-fon-dlya-rezyume-fon-10.jpg');
+  color: white;
+  font-size: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
