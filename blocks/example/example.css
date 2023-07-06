@@ -1,0 +1,7 @@
+.example{
+  width: 100%;
+  min-height: 20%;
+  background-color: gainsboro;
+  display: block;
+  padding-top: 20px;
+}

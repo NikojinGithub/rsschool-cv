@@ -1,0 +1,15 @@
+.footer{
+  height: 100px;
+  width: 95%;
+  /* border: 1px solid red; */
+  margin-right: auto;
+  margin-left: auto;
+  background-image: url(/images/1674784734_bogatyr-club-p-fon-dlya-rezyume-fon-6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
